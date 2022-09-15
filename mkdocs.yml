@@ -1,9 +1,9 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
-site_name: Your name - Fab Academy
-site_description: Fab Academy documentation site for Your Name
-site_author: Your name
-copyright: Copyright 2022 Your name - Creative Commons Attribution Non Commercial
+site_name: Willie Tay - Fab Academy
+site_description: Fab Academy documentation site for Willie Tay
+site_author: Willie Tay
+copyright: Copyright 2022 Willie Tay - Creative Commons Attribution Non Commercial
 
 site_url: null
 
@@ -15,8 +15,8 @@ theme:
     accent: indigo
   font:
     # See available fonts at https://fonts.google.com
-    text: Roboto
-    code: Roboto Mono
+    text: DIN Pro
+    code: DINPro
   icon:
     logo: material/school
   favicon: images/favicon.svg
