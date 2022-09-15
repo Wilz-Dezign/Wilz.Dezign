@@ -1,8 +1,8 @@
-# Home
+# Wilz.Dezign
 
-## Hello, new student!
+## Willie Tay
 
-![](./images/week01/assignment-photo.jpg)
+![](./images/logo.jpg)
 
 ## Welcome to your new Fab Academy site
 
