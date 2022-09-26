@@ -1,18 +1,20 @@
-# About me
+# ABOUT
 
-![](../images/avatar-photo.jpg)
+![](../images/willie.png)
 
-Hi! I am Emma Brewer. I am an art director & graphic designer based in New York City working on branding, visual identities, editorial design and web design.
+Hi! I am Willie Tay.
+I am a Designer,
+a Maker,
+and an Educator.
 
-Visit this website to see my work!
 
-## My background
+## BACKGROUND
 
-I was born in a nice city called..
+I was trained as an industrial designer since 2006 and have been in practice for more than 15 years. I am also a trained specialist in the digital design & fabrication domain that specialized in additive manufacturing and 3D design. Over the years, I have accumulated a good amount of working experiences, ranging from design research lab, design consultancy to design institutions. 
 
-## Previous work
+## ACHEIVEMENTS
 
-I'm a paragraph. Edit the page on Gitlab to add your own text and edit me. I’m a great place for you to tell a story and let your users know a little more about you.​
+I am fortunate to win a number of notable awards and patents such as the Red Dot Design Award, iF Design Award, DFA Award, Singapore FDA Award and Tan Kah Kee Young Inventors Award.
 
 ### Project A
 
